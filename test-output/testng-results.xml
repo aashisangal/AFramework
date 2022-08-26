@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54111" started-at="2022-08-24T03:42:04Z" finished-at="2022-08-24T03:42:58Z">
+    <groups>
+      <group name="Login">
+        <method signature="LoginTest.checkRememberMe_TC03()[pri:0, instance:test.LoginTest@76494737]" name="checkRememberMe_TC03" class="test.LoginTest"/>
+        <method signature="LoginTest.forgotPassword_TC04A()[pri:0, instance:test.LoginTest@76494737]" name="forgotPassword_TC04A" class="test.LoginTest"/>
+        <method signature="LoginTest.forgotPassword_TC04B()[pri:0, instance:test.LoginTest@76494737]" name="forgotPassword_TC04B" class="test.LoginTest"/>
+        <method signature="LoginTest.loginErrorMessage_TC01(java.lang.reflect.Method)[pri:0, instance:test.LoginTest@76494737]" name="loginErrorMessage_TC01" class="test.LoginTest"/>
+        <method signature="LoginTest.loginToSFDC_TC02()[pri:1, instance:test.LoginTest@76494737]" name="loginToSFDC_TC02" class="test.LoginTest"/>
+      </group> <!-- Login -->
+    </groups>
+    <test name="Default test" duration-ms="54111" started-at="2022-08-24T03:42:04Z" finished-at="2022-08-24T03:42:58Z">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="setUp(org.testng.ITestContext)[pri:0, instance:test.LoginTest@76494737]" name="setUp" is-config="true" duration-ms="130" started-at="2022-08-24T03:42:04Z" finished-at="2022-08-24T03:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6ecdbab8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:test.LoginTest@76494737]" name="driverSetup" is-config="true" duration-ms="5903" started-at="2022-08-24T03:42:04Z" finished-at="2022-08-24T03:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="checkRememberMe_TC03()[pri:0, instance:test.LoginTest@76494737]" name="checkRememberMe_TC03" duration-ms="15448" started-at="2022-08-24T03:42:10Z" finished-at="2022-08-24T03:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRememberMe_TC03 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.LoginTest@76494737]" name="tearDown" is-config="true" duration-ms="222" started-at="2022-08-24T03:42:25Z" finished-at="2022-08-24T03:42:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkRememberMe_TC03 status=SUCCESS method=LoginTest.checkRememberMe_TC03()[pri:0, instance:test.LoginTest@76494737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:test.LoginTest@76494737]" name="driverSetup" is-config="true" duration-ms="4962" started-at="2022-08-24T03:42:25Z" finished-at="2022-08-24T03:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="forgotPassword_TC04A()[pri:0, instance:test.LoginTest@76494737]" name="forgotPassword_TC04A" duration-ms="3078" started-at="2022-08-24T03:42:30Z" finished-at="2022-08-24T03:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword_TC04A -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.LoginTest@76494737]" name="tearDown" is-config="true" duration-ms="187" started-at="2022-08-24T03:42:34Z" finished-at="2022-08-24T03:42:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=forgotPassword_TC04A status=SUCCESS method=LoginTest.forgotPassword_TC04A()[pri:0, instance:test.LoginTest@76494737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:test.LoginTest@76494737]" name="driverSetup" is-config="true" duration-ms="4090" started-at="2022-08-24T03:42:34Z" finished-at="2022-08-24T03:42:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="forgotPassword_TC04B()[pri:0, instance:test.LoginTest@76494737]" name="forgotPassword_TC04B" duration-ms="4977" started-at="2022-08-24T03:42:38Z" finished-at="2022-08-24T03:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword_TC04B -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.LoginTest@76494737]" name="tearDown" is-config="true" duration-ms="153" started-at="2022-08-24T03:42:43Z" finished-at="2022-08-24T03:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=forgotPassword_TC04B status=SUCCESS method=LoginTest.forgotPassword_TC04B()[pri:0, instance:test.LoginTest@76494737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:test.LoginTest@76494737]" name="driverSetup" is-config="true" duration-ms="1503" started-at="2022-08-24T03:42:43Z" finished-at="2022-08-24T03:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="FAIL" signature="loginErrorMessage_TC01(java.lang.reflect.Method)[pri:0, instance:test.LoginTest@76494737]" name="loginErrorMessage_TC01" duration-ms="5506" started-at="2022-08-24T03:42:44Z" finished-at="2022-08-24T03:42:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.LoginTest.loginErrorMessage_TC01(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Please enter your password] but found [Please enter your password.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Please enter your password] but found [Please enter your password.]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at test.LoginTest.loginErrorMessage_TC01(LoginTest.java:69)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginErrorMessage_TC01 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.LoginTest@76494737]" name="tearDown" is-config="true" duration-ms="215" started-at="2022-08-24T03:42:50Z" finished-at="2022-08-24T03:42:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginErrorMessage_TC01 status=FAILURE method=LoginTest.loginErrorMessage_TC01(java.lang.reflect.Method)[pri:0, instance:test.LoginTest@76494737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:test.LoginTest@76494737]" name="driverSetup" is-config="true" duration-ms="1755" started-at="2022-08-24T03:42:51Z" finished-at="2022-08-24T03:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="loginToSFDC_TC02()[pri:1, instance:test.LoginTest@76494737]" name="loginToSFDC_TC02" duration-ms="5467" started-at="2022-08-24T03:42:52Z" finished-at="2022-08-24T03:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSFDC_TC02 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.LoginTest@76494737]" name="tearDown" is-config="true" duration-ms="257" started-at="2022-08-24T03:42:58Z" finished-at="2022-08-24T03:42:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginToSFDC_TC02 status=SUCCESS method=LoginTest.loginToSFDC_TC02()[pri:1, instance:test.LoginTest@76494737] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext)[pri:0, instance:test.LoginTest@76494737]" name="tearDown" is-config="true" duration-ms="344" started-at="2022-08-24T03:42:58Z" finished-at="2022-08-24T03:42:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6ecdbab8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

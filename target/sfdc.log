@@ -1,0 +1,998 @@
+2022-08-22-19:48:16 INFO  ************* Report configuration ********************
+2022-08-22-19:48:16 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-19:48:16 INFO  Default test: Attached html report for the reporting
+2022-08-22-19:48:28 INFO  Chromebrowser configured
+2022-08-22-19:48:28 INFO  Launched the app
+2022-08-22-19:48:29 INFO  Browser is closed.
+2022-08-22-19:48:31 INFO  Chromebrowser configured
+2022-08-22-19:48:31 INFO  Launched the app
+2022-08-22-19:48:31 INFO  Browser is closed.
+2022-08-22-19:48:33 INFO  Chromebrowser configured
+2022-08-22-19:48:33 INFO  Launched the app
+2022-08-22-19:48:34 INFO  Browser is closed.
+2022-08-22-19:48:36 INFO  Chromebrowser configured
+2022-08-22-19:48:36 INFO  Launched the app
+2022-08-22-19:48:36 INFO  Browser is closed.
+2022-08-22-19:48:41 INFO  Chromebrowser configured
+2022-08-22-19:48:41 INFO  Launched the app
+2022-08-22-19:48:41 INFO  Browser is closed.
+2022-08-22-19:48:41 INFO  Default test: Report flushed
+2022-08-22-19:53:08 INFO  ************* Report configuration ********************
+2022-08-22-19:53:08 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-19:53:08 INFO  Default test: Attached html report for the reporting
+2022-08-22-19:53:12 INFO  Chromebrowser configured
+2022-08-22-19:53:12 INFO  Launched the app
+2022-08-22-19:53:12 INFO  initiating logging into app
+2022-08-22-19:53:12 INFO  Browser is closed.
+2022-08-22-19:53:12 INFO  Default test: Report flushed
+2022-08-22-21:24:07 INFO  ************* Report configuration ********************
+2022-08-22-21:24:07 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:24:07 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:24:16 INFO  Chromebrowser configured
+2022-08-22-21:24:16 INFO  Browser is closed.
+2022-08-22-21:24:20 INFO  Chromebrowser configured
+2022-08-22-21:24:20 INFO  Browser is closed.
+2022-08-22-21:24:22 INFO  Chromebrowser configured
+2022-08-22-21:24:22 INFO  Browser is closed.
+2022-08-22-21:24:24 INFO  Chromebrowser configured
+2022-08-22-21:24:25 INFO  Browser is closed.
+2022-08-22-21:24:27 INFO  Chromebrowser configured
+2022-08-22-21:24:27 INFO  Browser is closed.
+2022-08-22-21:24:27 INFO  Default test: Report flushed
+2022-08-22-21:27:26 INFO  ************* Report configuration ********************
+2022-08-22-21:27:26 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:27:26 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:27:29 INFO  Chromebrowser configured
+2022-08-22-21:27:29 INFO  Browser is closed.
+2022-08-22-21:27:31 INFO  Chromebrowser configured
+2022-08-22-21:27:31 INFO  Browser is closed.
+2022-08-22-21:27:33 INFO  Chromebrowser configured
+2022-08-22-21:27:33 INFO  Browser is closed.
+2022-08-22-21:27:35 INFO  Chromebrowser configured
+2022-08-22-21:27:35 INFO  Browser is closed.
+2022-08-22-21:27:37 INFO  Chromebrowser configured
+2022-08-22-21:27:37 INFO  Browser is closed.
+2022-08-22-21:27:37 INFO  Default test: Report flushed
+2022-08-22-21:28:40 INFO  ************* Report configuration ********************
+2022-08-22-21:28:40 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:28:40 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:28:42 INFO  Chromebrowser configured
+2022-08-22-21:28:44 INFO  Launched the app
+2022-08-22-21:28:45 INFO  Browser is closed.
+2022-08-22-21:28:48 INFO  Chromebrowser configured
+2022-08-22-21:28:50 INFO  Launched the app
+2022-08-22-21:28:50 INFO  Browser is closed.
+2022-08-22-21:28:52 INFO  Chromebrowser configured
+2022-08-22-21:28:53 INFO  Launched the app
+2022-08-22-21:28:54 INFO  Browser is closed.
+2022-08-22-21:28:55 INFO  Chromebrowser configured
+2022-08-22-21:28:57 INFO  Launched the app
+2022-08-22-21:28:57 INFO  Browser is closed.
+2022-08-22-21:28:59 INFO  Chromebrowser configured
+2022-08-22-21:29:01 INFO  Launched the app
+2022-08-22-21:29:01 INFO  Browser is closed.
+2022-08-22-21:29:01 INFO  Default test: Report flushed
+2022-08-22-21:30:00 INFO  ************* Report configuration ********************
+2022-08-22-21:30:00 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:30:00 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:30:02 INFO  Chromebrowser configured
+2022-08-22-21:30:04 INFO  Launched the app
+2022-08-22-21:30:04 INFO  Browser is closed.
+2022-08-22-21:30:04 INFO  Default test: Report flushed
+2022-08-22-21:35:50 INFO  ************* Report configuration ********************
+2022-08-22-21:35:50 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:35:50 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:35:53 INFO  Chromebrowser configured
+2022-08-22-21:35:53 INFO  chrome setup
+2022-08-22-21:35:55 INFO  Launched the app
+2022-08-22-21:35:56 INFO  Browser is closed.
+2022-08-22-21:35:56 INFO  Default test: Report flushed
+2022-08-22-21:36:20 INFO  ************* Report configuration ********************
+2022-08-22-21:36:20 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:36:21 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:36:23 INFO  Chromebrowser configured
+2022-08-22-21:36:23 INFO  chrome setup
+2022-08-22-21:36:25 INFO  Launched the app
+2022-08-22-21:36:25 INFO  Browser is closed.
+2022-08-22-21:36:25 INFO  Default test: Report flushed
+2022-08-22-21:36:40 INFO  ************* Report configuration ********************
+2022-08-22-21:36:40 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:36:40 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:36:45 INFO  Chromebrowser configured
+2022-08-22-21:36:45 INFO  chrome setup
+2022-08-22-21:36:47 INFO  Launched the app
+2022-08-22-21:36:47 INFO  Browser is closed.
+2022-08-22-21:36:47 INFO  Default test: Report flushed
+2022-08-22-21:40:26 INFO  ************* Report configuration ********************
+2022-08-22-21:40:26 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:40:26 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:40:30 INFO  Chromebrowser configured
+2022-08-22-21:40:30 INFO  chrome setup
+2022-08-22-21:40:31 INFO  Browser is closed.
+2022-08-22-21:40:31 INFO  Default test: Report flushed
+2022-08-22-21:41:05 INFO  ************* Report configuration ********************
+2022-08-22-21:41:05 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:41:05 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:41:07 INFO  Chromebrowser configured
+2022-08-22-21:41:08 INFO  chrome setup
+2022-08-22-21:41:10 INFO  Launched the app
+2022-08-22-21:41:11 INFO  username entered on login page
+2022-08-22-21:41:11 INFO  password cleared
+2022-08-22-21:41:12 INFO  login button clicked
+2022-08-22-21:41:12 INFO  Error message is displayed
+2022-08-22-21:41:12 INFO  error message returned
+2022-08-22-21:41:12 INFO  Browser is closed.
+2022-08-22-21:41:12 INFO  Default test: Report flushed
+2022-08-22-21:43:03 INFO  ************* Report configuration ********************
+2022-08-22-21:43:03 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:43:03 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:43:06 INFO  Chromebrowser configured
+2022-08-22-21:43:09 INFO  Launched the app
+2022-08-22-21:43:09 INFO  Browser is closed.
+2022-08-22-21:43:09 INFO  Default test: Report flushed
+2022-08-22-21:43:33 INFO  ************* Report configuration ********************
+2022-08-22-21:43:33 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:43:33 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:43:35 INFO  Chromebrowser configured
+2022-08-22-21:43:37 INFO  Launched the app
+2022-08-22-21:43:37 INFO  username entered on login page
+2022-08-22-21:43:37 INFO  password entered on login page
+2022-08-22-21:43:38 INFO  Browser is closed.
+2022-08-22-21:43:38 INFO  Default test: Report flushed
+2022-08-22-21:49:07 INFO  ************* Report configuration ********************
+2022-08-22-21:49:07 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:49:07 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:49:12 INFO  Chromebrowser configured
+2022-08-22-21:49:14 INFO  Launched the app
+2022-08-22-21:49:15 INFO  Browser is closed.
+2022-08-22-21:49:15 INFO  Default test: Report flushed
+2022-08-22-21:50:26 INFO  ************* Report configuration ********************
+2022-08-22-21:50:26 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:50:27 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:50:29 INFO  Chromebrowser configured
+2022-08-22-21:50:31 INFO  Launched the app
+2022-08-22-21:50:31 INFO  Browser is closed.
+2022-08-22-21:50:31 INFO  Default test: Report flushed
+2022-08-22-21:51:17 INFO  ************* Report configuration ********************
+2022-08-22-21:51:17 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:51:17 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:51:20 INFO  Chromebrowser configured
+2022-08-22-21:51:22 INFO  Launched the app
+2022-08-22-21:51:22 INFO  Browser is closed.
+2022-08-22-21:51:22 INFO  Default test: Report flushed
+2022-08-22-21:53:32 INFO  ************* Report configuration ********************
+2022-08-22-21:53:32 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:53:32 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:53:35 INFO  Chromebrowser configured
+2022-08-22-21:53:39 INFO  Launched the app
+2022-08-22-21:53:39 INFO  Browser is closed.
+2022-08-22-21:53:39 INFO  Default test: Report flushed
+2022-08-22-21:53:50 INFO  ************* Report configuration ********************
+2022-08-22-21:53:50 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:53:50 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:53:53 INFO  Chromebrowser configured
+2022-08-22-21:53:54 INFO  Launched the app
+2022-08-22-21:53:55 INFO  Browser is closed.
+2022-08-22-21:53:55 INFO  Default test: Report flushed
+2022-08-22-21:57:24 INFO  ************* Report configuration ********************
+2022-08-22-21:57:24 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:57:24 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:57:26 INFO  Chromebrowser configured
+2022-08-22-21:57:29 INFO  Launched the app
+2022-08-22-21:57:29 INFO  Browser is closed.
+2022-08-22-21:57:29 INFO  Default test: Report flushed
+2022-08-22-21:59:35 INFO  ************* Report configuration ********************
+2022-08-22-21:59:35 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-21:59:35 INFO  Default test: Attached html report for the reporting
+2022-08-22-21:59:38 INFO  Chromebrowser configured
+2022-08-22-21:59:40 INFO  Launched the app
+2022-08-22-21:59:40 INFO  username entered on login page
+2022-08-22-21:59:41 INFO  password entered on login page
+2022-08-22-21:59:41 INFO  Browser is closed.
+2022-08-22-21:59:42 INFO  Default test: Report flushed
+2022-08-22-22:01:09 INFO  ************* Report configuration ********************
+2022-08-22-22:01:09 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:01:09 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:01:14 INFO  Chromebrowser configured
+2022-08-22-22:01:14 INFO  chrome setup
+2022-08-22-22:01:16 INFO  Launched the app
+2022-08-22-22:01:16 INFO  username entered on login page
+2022-08-22-22:01:16 INFO  password cleared
+2022-08-22-22:01:16 INFO  login button clicked
+2022-08-22-22:01:17 INFO  Error message is not displayed
+2022-08-22-22:01:17 INFO  Browser is closed.
+2022-08-22-22:01:22 INFO  Chromebrowser configured
+2022-08-22-22:01:23 INFO  Launched the app
+2022-08-22-22:01:23 INFO  username entered on login page
+2022-08-22-22:01:24 INFO  password entered on login page
+2022-08-22-22:01:24 INFO  Browser is closed.
+2022-08-22-22:01:24 INFO  Default test: Report flushed
+2022-08-22-22:04:36 INFO  ************* Report configuration ********************
+2022-08-22-22:04:36 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:04:36 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:04:38 INFO  Chromebrowser configured
+2022-08-22-22:04:38 INFO  chrome setup
+2022-08-22-22:04:40 INFO  Launched the app
+2022-08-22-22:04:40 INFO  username entered on login page
+2022-08-22-22:04:40 INFO  password cleared
+2022-08-22-22:04:41 INFO  login button clicked
+2022-08-22-22:04:44 INFO  Error message is displayed
+2022-08-22-22:04:44 INFO  Login error message is seen
+2022-08-22-22:04:44 INFO  error message returned
+2022-08-22-22:04:44 INFO  Browser is closed.
+2022-08-22-22:04:45 INFO  Default test: Report flushed
+2022-08-22-22:05:31 INFO  ************* Report configuration ********************
+2022-08-22-22:05:31 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:05:31 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:05:34 INFO  Chromebrowser configured
+2022-08-22-22:05:34 INFO  chrome setup
+2022-08-22-22:05:35 INFO  Launched the app
+2022-08-22-22:05:36 INFO  username entered on login page
+2022-08-22-22:05:36 INFO  password cleared
+2022-08-22-22:05:36 INFO  login button clicked
+2022-08-22-22:05:39 INFO  Error message is displayed
+2022-08-22-22:05:39 INFO  Login error message is seen
+2022-08-22-22:05:39 INFO  error message returned
+2022-08-22-22:05:40 INFO  Browser is closed.
+2022-08-22-22:05:41 INFO  Chromebrowser configured
+2022-08-22-22:05:44 INFO  Launched the app
+2022-08-22-22:05:44 INFO  username entered on login page
+2022-08-22-22:05:44 INFO  password entered on login page
+2022-08-22-22:05:47 INFO  Browser is closed.
+2022-08-22-22:05:48 INFO  Default test: Report flushed
+2022-08-22-22:10:00 INFO  ************* Report configuration ********************
+2022-08-22-22:10:00 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:10:00 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:10:03 INFO  Chromebrowser configured
+2022-08-22-22:10:03 INFO  chrome setup
+2022-08-22-22:10:07 INFO  Launched the app
+2022-08-22-22:10:07 INFO  username entered on login page
+2022-08-22-22:10:07 INFO  password cleared
+2022-08-22-22:10:07 INFO  login button clicked
+2022-08-22-22:10:10 INFO  Error message is displayed
+2022-08-22-22:10:10 INFO  Login error message is seen
+2022-08-22-22:10:10 INFO  error message returned
+2022-08-22-22:10:11 INFO  Browser is closed.
+2022-08-22-22:10:13 INFO  Chromebrowser configured
+2022-08-22-22:10:15 INFO  Launched the app
+2022-08-22-22:10:15 INFO  username entered on login page
+2022-08-22-22:10:15 INFO  password entered on login page
+2022-08-22-22:10:18 INFO  Browser is closed.
+2022-08-22-22:10:19 INFO  Default test: Report flushed
+2022-08-22-22:11:24 INFO  ************* Report configuration ********************
+2022-08-22-22:11:24 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:11:24 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:11:27 INFO  Chromebrowser configured
+2022-08-22-22:11:28 INFO  Launched the app
+2022-08-22-22:11:28 INFO  username entered on login page
+2022-08-22-22:11:28 INFO  password entered on login page
+2022-08-22-22:11:29 INFO  remember me checkbox is selected
+2022-08-22-22:11:29 INFO  login button clicked
+2022-08-22-22:12:00 INFO  Browser is closed.
+2022-08-22-22:12:03 INFO  Chromebrowser configured
+2022-08-22-22:12:05 INFO  Launched the app
+2022-08-22-22:12:05 INFO  clicked on forgot your password
+2022-08-22-22:12:06 INFO  forgot username entered on login page
+2022-08-22-22:12:08 INFO  Browser is closed.
+2022-08-22-22:12:11 INFO  Chromebrowser configured
+2022-08-22-22:12:13 INFO  Launched the app
+2022-08-22-22:12:13 INFO  username entered on login page
+2022-08-22-22:12:13 INFO  password entered on login page
+2022-08-22-22:12:14 INFO  login button clicked
+2022-08-22-22:12:14 INFO  error message returned
+2022-08-22-22:12:14 INFO  Browser is closed.
+2022-08-22-22:12:15 INFO  Default test: Report flushed
+2022-08-22-22:13:19 INFO  ************* Report configuration ********************
+2022-08-22-22:13:19 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:13:19 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:13:22 INFO  Chromebrowser configured
+2022-08-22-22:13:24 INFO  Launched the app
+2022-08-22-22:13:24 INFO  username entered on login page
+2022-08-22-22:13:24 INFO  password entered on login page
+2022-08-22-22:13:24 INFO  remember me checkbox is selected
+2022-08-22-22:13:25 INFO  login button clicked
+2022-08-22-22:13:55 INFO  Browser is closed.
+2022-08-22-22:13:57 INFO  Chromebrowser configured
+2022-08-22-22:13:59 INFO  Launched the app
+2022-08-22-22:13:59 INFO  clicked on forgot your password
+2022-08-22-22:13:59 INFO  forgot username entered on login page
+2022-08-22-22:14:00 INFO  Browser is closed.
+2022-08-22-22:14:02 INFO  Chromebrowser configured
+2022-08-22-22:14:03 INFO  Launched the app
+2022-08-22-22:14:04 INFO  username entered on login page
+2022-08-22-22:14:04 INFO  password entered on login page
+2022-08-22-22:14:04 INFO  login button clicked
+2022-08-22-22:14:04 INFO  error message returned
+2022-08-22-22:14:05 INFO  Browser is closed.
+2022-08-22-22:14:05 INFO  Default test: Report flushed
+2022-08-22-22:16:42 INFO  ************* Report configuration ********************
+2022-08-22-22:16:42 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:16:42 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:16:44 INFO  Chromebrowser configured
+2022-08-22-22:16:46 INFO  Launched the app
+2022-08-22-22:16:46 INFO  username entered on login page
+2022-08-22-22:16:46 INFO  password entered on login page
+2022-08-22-22:16:46 INFO  remember me checkbox is selected
+2022-08-22-22:16:46 INFO  login button clicked
+2022-08-22-22:17:20 INFO  Browser is closed.
+2022-08-22-22:17:20 INFO  Default test: Report flushed
+2022-08-22-22:20:40 INFO  ************* Report configuration ********************
+2022-08-22-22:20:40 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:20:40 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:20:43 INFO  Chromebrowser configured
+2022-08-22-22:20:45 INFO  Launched the app
+2022-08-22-22:20:45 INFO  username entered on login page
+2022-08-22-22:20:48 INFO  password entered on login page
+2022-08-22-22:20:48 INFO  remember me checkbox is selected
+2022-08-22-22:20:49 INFO  login button clicked
+2022-08-22-22:21:22 INFO  Browser is closed.
+2022-08-22-22:21:22 INFO  Default test: Report flushed
+2022-08-22-22:21:47 INFO  ************* Report configuration ********************
+2022-08-22-22:21:47 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:21:47 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:21:51 INFO  Chromebrowser configured
+2022-08-22-22:21:53 INFO  Launched the app
+2022-08-22-22:21:53 INFO  username entered on login page
+2022-08-22-22:21:56 INFO  password entered on login page
+2022-08-22-22:21:56 INFO  remember me checkbox is selected
+2022-08-22-22:21:58 INFO  login button clicked
+2022-08-22-22:22:07 INFO  Browser is closed.
+2022-08-22-22:22:07 INFO  Default test: Report flushed
+2022-08-22-22:22:25 INFO  ************* Report configuration ********************
+2022-08-22-22:22:25 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:22:25 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:22:32 INFO  Chromebrowser configured
+2022-08-22-22:22:34 INFO  Launched the app
+2022-08-22-22:22:34 INFO  clicked on forgot your password
+2022-08-22-22:22:34 INFO  forgot username entered on login page
+2022-08-22-22:22:36 INFO  Browser is closed.
+2022-08-22-22:22:36 INFO  Default test: Report flushed
+2022-08-22-22:23:37 INFO  ************* Report configuration ********************
+2022-08-22-22:23:37 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:23:37 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:23:39 INFO  Chromebrowser configured
+2022-08-22-22:23:41 INFO  Launched the app
+2022-08-22-22:23:42 INFO  clicked on forgot your password
+2022-08-22-22:23:42 INFO  forgot username entered on login page
+2022-08-22-22:23:45 INFO  Browser is closed.
+2022-08-22-22:23:46 INFO  Default test: Report flushed
+2022-08-22-22:27:02 INFO  ************* Report configuration ********************
+2022-08-22-22:27:02 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:27:02 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:27:05 INFO  Chromebrowser configured
+2022-08-22-22:27:08 INFO  Launched the app
+2022-08-22-22:27:08 INFO  clicked on forgot your password
+2022-08-22-22:27:09 INFO  forgot username entered on login page
+2022-08-22-22:27:10 INFO  Browser is closed.
+2022-08-22-22:27:10 INFO  Default test: Report flushed
+2022-08-22-22:27:29 INFO  ************* Report configuration ********************
+2022-08-22-22:27:29 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:27:29 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:27:32 INFO  Chromebrowser configured
+2022-08-22-22:27:33 INFO  Launched the app
+2022-08-22-22:27:34 INFO  username entered on login page
+2022-08-22-22:27:34 INFO  password entered on login page
+2022-08-22-22:27:34 INFO  login button clicked
+2022-08-22-22:27:34 INFO  error message returned
+2022-08-22-22:27:34 INFO  Browser is closed.
+2022-08-22-22:27:35 INFO  Default test: Report flushed
+2022-08-22-22:28:22 INFO  ************* Report configuration ********************
+2022-08-22-22:28:22 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:28:22 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:28:25 INFO  Chromebrowser configured
+2022-08-22-22:28:27 INFO  Launched the app
+2022-08-22-22:28:27 INFO  username entered on login page
+2022-08-22-22:28:27 INFO  password entered on login page
+2022-08-22-22:28:28 INFO  login button clicked
+2022-08-22-22:28:28 INFO  error message returned
+2022-08-22-22:28:28 INFO  Browser is closed.
+2022-08-22-22:28:29 INFO  Default test: Report flushed
+2022-08-22-22:28:59 INFO  ************* Report configuration ********************
+2022-08-22-22:28:59 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:29:00 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:29:02 INFO  Chromebrowser configured
+2022-08-22-22:29:04 INFO  Launched the app
+2022-08-22-22:29:04 INFO  username entered on login page
+2022-08-22-22:29:04 INFO  password entered on login page
+2022-08-22-22:29:04 INFO  login button clicked
+2022-08-22-22:29:07 INFO  error message returned
+2022-08-22-22:29:07 INFO  Browser is closed.
+2022-08-22-22:29:08 INFO  Default test: Report flushed
+2022-08-22-22:29:33 INFO  ************* Report configuration ********************
+2022-08-22-22:29:33 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:29:33 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:29:35 INFO  Chromebrowser configured
+2022-08-22-22:29:37 INFO  Launched the app
+2022-08-22-22:29:37 INFO  username entered on login page
+2022-08-22-22:29:40 INFO  password entered on login page
+2022-08-22-22:29:40 INFO  remember me checkbox is selected
+2022-08-22-22:29:42 INFO  login button clicked
+2022-08-22-22:29:49 INFO  Browser is closed.
+2022-08-22-22:29:51 INFO  Chromebrowser configured
+2022-08-22-22:29:53 INFO  Launched the app
+2022-08-22-22:29:53 INFO  clicked on forgot your password
+2022-08-22-22:29:53 INFO  forgot username entered on login page
+2022-08-22-22:29:54 INFO  Browser is closed.
+2022-08-22-22:29:55 INFO  Chromebrowser configured
+2022-08-22-22:29:57 INFO  Launched the app
+2022-08-22-22:29:57 INFO  username entered on login page
+2022-08-22-22:29:57 INFO  password entered on login page
+2022-08-22-22:29:57 INFO  login button clicked
+2022-08-22-22:30:00 INFO  error message returned
+2022-08-22-22:30:00 INFO  Browser is closed.
+2022-08-22-22:30:02 INFO  Chromebrowser configured
+2022-08-22-22:30:02 INFO  chrome setup
+2022-08-22-22:30:04 INFO  Launched the app
+2022-08-22-22:30:04 INFO  username entered on login page
+2022-08-22-22:30:04 INFO  password cleared
+2022-08-22-22:30:04 INFO  login button clicked
+2022-08-22-22:30:07 INFO  Error message is displayed
+2022-08-22-22:30:07 INFO  Login error message is seen
+2022-08-22-22:30:07 INFO  error message returned
+2022-08-22-22:30:07 INFO  Browser is closed.
+2022-08-22-22:30:09 INFO  Chromebrowser configured
+2022-08-22-22:30:11 INFO  Launched the app
+2022-08-22-22:30:11 INFO  username entered on login page
+2022-08-22-22:30:11 INFO  password entered on login page
+2022-08-22-22:30:14 INFO  Browser is closed.
+2022-08-22-22:30:15 INFO  Default test: Report flushed
+2022-08-22-22:37:41 INFO  ************* Report configuration ********************
+2022-08-22-22:37:41 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:37:41 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:37:45 INFO  Chromebrowser configured
+2022-08-22-22:37:48 INFO  Launched the app
+2022-08-22-22:37:48 INFO  username entered on login page
+2022-08-22-22:37:51 INFO  password entered on login page
+2022-08-22-22:37:51 INFO  remember me checkbox is selected
+2022-08-22-22:37:53 INFO  login button clicked
+2022-08-22-22:38:02 INFO  Browser is closed.
+2022-08-22-22:38:06 INFO  Chromebrowser configured
+2022-08-22-22:38:08 INFO  Launched the app
+2022-08-22-22:38:08 INFO  clicked on forgot your password
+2022-08-22-22:38:08 INFO  forgot username entered on login page
+2022-08-22-22:38:09 INFO  Browser is closed.
+2022-08-22-22:38:11 INFO  Chromebrowser configured
+2022-08-22-22:38:13 INFO  Launched the app
+2022-08-22-22:38:13 INFO  username entered on login page
+2022-08-22-22:38:13 INFO  password entered on login page
+2022-08-22-22:38:14 INFO  login button clicked
+2022-08-22-22:38:17 INFO  error message returned
+2022-08-22-22:38:17 INFO  Browser is closed.
+2022-08-22-22:38:19 INFO  Chromebrowser configured
+2022-08-22-22:38:19 INFO  chrome setup
+2022-08-22-22:38:20 INFO  Launched the app
+2022-08-22-22:38:21 INFO  username entered on login page
+2022-08-22-22:38:21 INFO  password cleared
+2022-08-22-22:38:21 INFO  login button clicked
+2022-08-22-22:38:24 INFO  Error message is displayed
+2022-08-22-22:38:24 INFO  Login error message is seen
+2022-08-22-22:38:24 INFO  error message returned
+2022-08-22-22:38:24 INFO  Browser is closed.
+2022-08-22-22:38:26 INFO  Chromebrowser configured
+2022-08-22-22:38:27 INFO  Launched the app
+2022-08-22-22:38:28 INFO  username entered on login page
+2022-08-22-22:38:28 INFO  password entered on login page
+2022-08-22-22:38:31 INFO  Browser is closed.
+2022-08-22-22:38:31 INFO  Default test: Report flushed
+2022-08-22-22:43:51 INFO  ************* Report configuration ********************
+2022-08-22-22:43:51 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:43:51 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:43:54 INFO  Chromebrowser configured
+2022-08-22-22:43:56 INFO  Launched the app
+2022-08-22-22:43:56 INFO  username entered on login page
+2022-08-22-22:43:59 INFO  password entered on login page
+2022-08-22-22:43:59 INFO  remember me checkbox is selected
+2022-08-22-22:44:06 INFO  login button clicked
+2022-08-22-22:44:12 INFO  Browser is closed.
+2022-08-22-22:44:14 INFO  Chromebrowser configured
+2022-08-22-22:44:16 INFO  Launched the app
+2022-08-22-22:44:16 INFO  clicked on forgot your password
+2022-08-22-22:44:16 INFO  forgot username entered on login page
+2022-08-22-22:44:17 INFO  Browser is closed.
+2022-08-22-22:44:19 INFO  Chromebrowser configured
+2022-08-22-22:44:21 INFO  Launched the app
+2022-08-22-22:44:21 INFO  username entered on login page
+2022-08-22-22:44:21 INFO  password entered on login page
+2022-08-22-22:44:21 INFO  login button clicked
+2022-08-22-22:44:24 INFO  error message returned
+2022-08-22-22:44:24 INFO  Browser is closed.
+2022-08-22-22:44:26 INFO  Chromebrowser configured
+2022-08-22-22:44:26 INFO  chrome setup
+2022-08-22-22:44:27 INFO  Launched the app
+2022-08-22-22:44:28 INFO  username entered on login page
+2022-08-22-22:44:28 INFO  password cleared
+2022-08-22-22:44:28 INFO  login button clicked
+2022-08-22-22:44:31 INFO  Error message is displayed
+2022-08-22-22:44:31 INFO  Login error message is seen
+2022-08-22-22:44:31 INFO  error message returned
+2022-08-22-22:44:31 INFO  Browser is closed.
+2022-08-22-22:44:33 INFO  Chromebrowser configured
+2022-08-22-22:44:35 INFO  Launched the app
+2022-08-22-22:44:35 INFO  username entered on login page
+2022-08-22-22:44:35 INFO  password entered on login page
+2022-08-22-22:44:39 INFO  Browser is closed.
+2022-08-22-22:44:39 INFO  Default test: Report flushed
+2022-08-22-22:45:46 INFO  ************* Report configuration ********************
+2022-08-22-22:45:46 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:45:46 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:45:48 INFO  Chromebrowser configured
+2022-08-22-22:45:50 INFO  Launched the app
+2022-08-22-22:45:50 INFO  Browser is closed.
+2022-08-22-22:45:50 INFO  Default test: Report flushed
+2022-08-22-22:49:23 INFO  ************* Report configuration ********************
+2022-08-22-22:49:23 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:49:24 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:49:24 INFO  Default test: Report flushed
+2022-08-22-22:49:43 INFO  ************* Report configuration ********************
+2022-08-22-22:49:43 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:49:43 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:49:49 INFO  Chromebrowser configured
+2022-08-22-22:49:49 INFO  chrome setup
+2022-08-22-22:49:52 INFO  Launched the app
+2022-08-22-22:49:52 INFO  username entered on login page
+2022-08-22-22:49:52 INFO  password cleared
+2022-08-22-22:49:55 INFO  Browser is closed.
+2022-08-22-22:49:56 INFO  Default test: Report flushed
+2022-08-22-22:53:12 INFO  ************* Report configuration ********************
+2022-08-22-22:53:12 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-22:53:12 INFO  Default test: Attached html report for the reporting
+2022-08-22-22:53:20 INFO  Chromebrowser configured
+2022-08-22-22:53:20 INFO  chrome setup
+2022-08-22-22:53:22 INFO  Launched the app
+2022-08-22-22:53:23 INFO  username entered on login page
+2022-08-22-22:53:23 INFO  password cleared
+2022-08-22-22:53:27 INFO  Browser is closed.
+2022-08-22-22:53:27 INFO  Default test: Report flushed
+2022-08-22-23:06:13 INFO  ************* Report configuration ********************
+2022-08-22-23:06:13 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:06:14 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:08:29 INFO  ************* Report configuration ********************
+2022-08-22-23:08:29 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:08:29 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:09:45 INFO  Chromebrowser configured
+2022-08-22-23:09:45 INFO  chrome setup
+2022-08-22-23:10:11 INFO  Launched the app
+2022-08-22-23:10:14 INFO  Browser is closed.
+2022-08-22-23:10:15 INFO  Default test: Report flushed
+2022-08-22-23:16:01 INFO  ************* Report configuration ********************
+2022-08-22-23:16:01 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:16:01 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:17:28 INFO  ************* Report configuration ********************
+2022-08-22-23:17:28 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:17:28 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:18:17 INFO  Chromebrowser configured
+2022-08-22-23:18:17 INFO  chrome setup
+2022-08-22-23:18:22 INFO  Launched the app
+2022-08-22-23:18:22 INFO  username entered on login page
+2022-08-22-23:18:22 INFO  password cleared
+2022-08-22-23:18:22 INFO  login button clicked
+2022-08-22-23:18:25 INFO  Error message is displayed
+2022-08-22-23:18:25 INFO  Login error message is seen
+2022-08-22-23:18:27 INFO  error message returned
+2022-08-22-23:18:27 INFO  Browser is closed.
+2022-08-22-23:18:28 INFO  Default test: Report flushed
+2022-08-22-23:20:52 INFO  ************* Report configuration ********************
+2022-08-22-23:20:52 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:20:52 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:20:55 INFO  Chromebrowser configured
+2022-08-22-23:20:55 INFO  chrome setup
+2022-08-22-23:20:57 INFO  Launched the app
+2022-08-22-23:21:01 INFO  username entered on login page
+2022-08-22-23:21:01 INFO  password cleared
+2022-08-22-23:21:02 INFO  login button clicked
+2022-08-22-23:21:05 INFO  Error message is displayed
+2022-08-22-23:21:05 INFO  Login error message is seen
+2022-08-22-23:21:05 INFO  error message returned
+2022-08-22-23:21:08 INFO  Browser is closed.
+2022-08-22-23:21:09 INFO  Default test: Report flushed
+2022-08-22-23:29:28 INFO  ************* Report configuration ********************
+2022-08-22-23:29:28 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:29:29 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:31:37 INFO  ************* Report configuration ********************
+2022-08-22-23:31:38 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:31:38 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:31:45 INFO  Chromebrowser configured
+2022-08-22-23:31:45 INFO  chrome setup
+2022-08-22-23:31:52 INFO  Launched the app
+2022-08-22-23:31:52 INFO  username entered on login page
+2022-08-22-23:31:52 INFO  password cleared
+2022-08-22-23:31:53 INFO  login button clicked
+2022-08-22-23:31:56 INFO  Error message is displayed
+2022-08-22-23:31:56 INFO  Login error message is seen
+2022-08-22-23:31:56 INFO  error message returned
+2022-08-22-23:31:56 INFO  Browser is closed.
+2022-08-22-23:31:57 INFO  Default test: Report flushed
+2022-08-22-23:32:55 INFO  ************* Report configuration ********************
+2022-08-22-23:32:55 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:32:55 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:34:02 INFO  Chromebrowser configured
+2022-08-22-23:34:02 INFO  chrome setup
+2022-08-22-23:34:59 INFO  Launched the app
+2022-08-22-23:35:23 INFO  username entered on login page
+2022-08-22-23:35:32 INFO  password cleared
+2022-08-22-23:35:38 INFO  login button clicked
+2022-08-22-23:35:41 INFO  Error message is displayed
+2022-08-22-23:35:41 INFO  Login error message is seen
+2022-08-22-23:35:45 INFO  error message returned
+2022-08-22-23:35:46 INFO  Browser is closed.
+2022-08-22-23:35:47 INFO  Default test: Report flushed
+2022-08-22-23:43:39 INFO  ************* Report configuration ********************
+2022-08-22-23:43:39 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:43:39 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:43:57 INFO  Chromebrowser configured
+2022-08-22-23:43:57 INFO  chrome setup
+2022-08-22-23:44:04 INFO  Launched the app
+2022-08-22-23:44:05 INFO  username entered on login page
+2022-08-22-23:44:05 INFO  password cleared
+2022-08-22-23:44:06 INFO  login button clicked
+2022-08-22-23:44:09 INFO  Error message is displayed
+2022-08-22-23:44:09 INFO  Login error message is seen
+2022-08-22-23:44:09 INFO  error message returned
+2022-08-22-23:44:12 INFO  Browser is closed.
+2022-08-22-23:44:13 INFO  Default test: Report flushed
+2022-08-22-23:56:52 INFO  ************* Report configuration ********************
+2022-08-22-23:56:52 INFO  Default test: Initialized extent object for the extent reports
+2022-08-22-23:56:52 INFO  Default test: Attached html report for the reporting
+2022-08-22-23:57:10 INFO  Chromebrowser configured
+2022-08-22-23:57:10 INFO  chrome setup
+2022-08-22-23:57:48 INFO  Launched the app
+2022-08-22-23:58:26 INFO  username entered on login page
+2022-08-22-23:58:41 INFO  password cleared
+2022-08-22-23:58:56 INFO  login button clicked
+2022-08-22-23:58:59 INFO  Error message is displayed
+2022-08-22-23:58:59 INFO  Login error message is seen
+2022-08-22-23:58:59 INFO  error message returned
+2022-08-22-23:59:00 INFO  Browser is closed.
+2022-08-22-23:59:00 INFO  Default test: Report flushed
+2022-08-23-00:06:11 INFO  ************* Report configuration ********************
+2022-08-23-00:06:11 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-00:06:11 INFO  Default test: Attached html report for the reporting
+2022-08-23-00:06:23 INFO  Chromebrowser configured
+2022-08-23-00:06:23 INFO  chrome setup
+2022-08-23-00:07:04 INFO  Launched the app
+2022-08-23-00:07:06 INFO  username entered on login page
+2022-08-23-00:07:06 INFO  password cleared
+2022-08-23-00:07:07 INFO  login button clicked
+2022-08-23-00:07:11 INFO  Error message is displayed
+2022-08-23-00:07:11 INFO  Login error message is seen
+2022-08-23-00:07:11 INFO  error message returned
+2022-08-23-00:12:30 INFO  ************* Report configuration ********************
+2022-08-23-00:12:30 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-00:12:31 INFO  Default test: Attached html report for the reporting
+2022-08-23-00:13:24 INFO  Chromebrowser configured
+2022-08-23-00:13:24 INFO  chrome setup
+2022-08-23-00:14:07 INFO  Launched the app
+2022-08-23-00:14:09 INFO  username entered on login page
+2022-08-23-00:14:09 INFO  password cleared
+2022-08-23-00:14:09 INFO  login button clicked
+2022-08-23-00:14:12 INFO  Error message is displayed
+2022-08-23-00:14:12 INFO  Login error message is seen
+2022-08-23-00:14:12 INFO  error message returned
+2022-08-23-18:09:30 INFO  ************* Report configuration ********************
+2022-08-23-18:09:30 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-18:09:30 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:15:12 INFO  ************* Report configuration ********************
+2022-08-23-22:15:12 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:15:13 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:15:27 INFO  Chromebrowser configured
+2022-08-23-22:15:27 INFO  chrome setup
+2022-08-23-22:15:28 INFO  Launched the app
+2022-08-23-22:15:30 INFO  username entered on login page
+2022-08-23-22:15:30 INFO  password cleared
+2022-08-23-22:15:31 INFO  login button clicked
+2022-08-23-22:15:34 INFO  Error message is displayed
+2022-08-23-22:15:34 INFO  Login error message is seen
+2022-08-23-22:15:34 INFO  error message returned
+2022-08-23-22:15:34 INFO  Browser is closed.
+2022-08-23-22:15:35 INFO  Default test: Report flushed
+2022-08-23-22:17:43 INFO  ************* Report configuration ********************
+2022-08-23-22:17:43 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:17:44 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:17:50 INFO  ************* Report configuration ********************
+2022-08-23-22:17:50 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:17:50 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:17:53 INFO  Chromebrowser configured
+2022-08-23-22:17:53 INFO  chrome setup
+2022-08-23-22:17:54 INFO  Launched the app
+2022-08-23-22:17:55 INFO  username entered on login page
+2022-08-23-22:17:55 INFO  password cleared
+2022-08-23-22:17:55 INFO  login button clicked
+2022-08-23-22:17:59 INFO  Error message is displayed
+2022-08-23-22:17:59 INFO  Login error message is seen
+2022-08-23-22:17:59 INFO  error message returned
+2022-08-23-22:23:43 INFO  ************* Report configuration ********************
+2022-08-23-22:23:43 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:23:43 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:23:46 INFO  Chromebrowser configured
+2022-08-23-22:23:46 INFO  chrome setup
+2022-08-23-22:23:50 INFO  Launched the app
+2022-08-23-22:23:50 INFO  username entered on login page
+2022-08-23-22:23:50 INFO  password cleared
+2022-08-23-22:23:50 INFO  login button clicked
+2022-08-23-22:23:54 INFO  Error message is displayed
+2022-08-23-22:23:54 INFO  Login error message is seen
+2022-08-23-22:23:54 INFO  error message returned
+2022-08-23-22:23:54 INFO  Browser is closed.
+2022-08-23-22:23:55 INFO  Default test: Report flushed
+2022-08-23-22:24:15 INFO  ************* Report configuration ********************
+2022-08-23-22:24:15 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:24:15 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:24:49 INFO  ************* Report configuration ********************
+2022-08-23-22:24:49 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:24:49 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:24:49 INFO  initiating logging into app
+2022-08-23-22:25:21 INFO  ************* Report configuration ********************
+2022-08-23-22:25:21 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:25:21 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:25:23 INFO  Chromebrowser configured
+2022-08-23-22:25:25 INFO  Launched the app
+2022-08-23-22:25:25 INFO  initiating logging into app
+2022-08-23-22:25:26 INFO  username entered on login page
+2022-08-23-22:25:26 INFO  password entered on login page
+2022-08-23-22:25:27 INFO  login button clicked
+2022-08-23-22:25:27 INFO  Browser is closed.
+2022-08-23-22:25:27 INFO  Default test: Report flushed
+2022-08-23-22:26:22 INFO  ************* Report configuration ********************
+2022-08-23-22:26:22 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:26:23 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:26:25 INFO  Chromebrowser configured
+2022-08-23-22:26:25 INFO  Browser is closed.
+2022-08-23-22:26:26 INFO  Default test: Report flushed
+2022-08-23-22:27:09 INFO  ************* Report configuration ********************
+2022-08-23-22:27:09 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:27:09 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:27:11 INFO  Chromebrowser configured
+2022-08-23-22:27:14 INFO  Chromebrowser configured
+2022-08-23-22:27:15 INFO  Browser is closed.
+2022-08-23-22:27:15 INFO  Default test: Report flushed
+2022-08-23-22:29:02 INFO  ************* Report configuration ********************
+2022-08-23-22:29:02 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:29:02 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:29:07 INFO  ************* Report configuration ********************
+2022-08-23-22:29:07 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:29:07 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:29:43 INFO  ************* Report configuration ********************
+2022-08-23-22:29:43 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:29:44 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:29:46 INFO  Chromebrowser configured
+2022-08-23-22:29:48 INFO  Launched the app
+2022-08-23-22:29:48 INFO  username entered on login page
+2022-08-23-22:29:51 INFO  password entered on login page
+2022-08-23-22:29:51 INFO  remember me checkbox is selected
+2022-08-23-22:29:57 INFO  login button clicked
+2022-08-23-22:30:02 INFO  Browser is closed.
+2022-08-23-22:30:07 INFO  Chromebrowser configured
+2022-08-23-22:30:09 INFO  Launched the app
+2022-08-23-22:30:09 INFO  clicked on forgot your password
+2022-08-23-22:30:09 INFO  forgot username entered on login page
+2022-08-23-22:30:10 INFO  Browser is closed.
+2022-08-23-22:30:12 INFO  Chromebrowser configured
+2022-08-23-22:30:13 INFO  Launched the app
+2022-08-23-22:30:14 INFO  username entered on login page
+2022-08-23-22:30:14 INFO  password entered on login page
+2022-08-23-22:30:14 INFO  login button clicked
+2022-08-23-22:30:17 INFO  error message returned
+2022-08-23-22:30:17 INFO  Browser is closed.
+2022-08-23-22:30:19 INFO  Chromebrowser configured
+2022-08-23-22:30:19 INFO  chrome setup
+2022-08-23-22:30:20 INFO  Launched the app
+2022-08-23-22:30:21 INFO  username entered on login page
+2022-08-23-22:30:21 INFO  password cleared
+2022-08-23-22:30:22 INFO  login button clicked
+2022-08-23-22:30:25 INFO  Error message is displayed
+2022-08-23-22:30:25 INFO  Login error message is seen
+2022-08-23-22:30:25 INFO  error message returned
+2022-08-23-22:30:25 INFO  Browser is closed.
+2022-08-23-22:30:27 INFO  Chromebrowser configured
+2022-08-23-22:30:29 INFO  Launched the app
+2022-08-23-22:30:29 INFO  username entered on login page
+2022-08-23-22:30:29 INFO  password entered on login page
+2022-08-23-22:30:32 INFO  Browser is closed.
+2022-08-23-22:30:33 INFO  Default test: Report flushed
+2022-08-23-22:35:38 INFO  ************* Report configuration ********************
+2022-08-23-22:35:38 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:35:38 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:35:41 INFO  Chromebrowser configured
+2022-08-23-22:35:42 INFO  Launched the app
+2022-08-23-22:35:42 INFO  initiating logging into app
+2022-08-23-22:35:43 INFO  username entered on login page
+2022-08-23-22:35:43 INFO  password entered on login page
+2022-08-23-22:35:43 INFO  login button clicked
+2022-08-23-22:35:53 INFO  Browser is closed.
+2022-08-23-22:35:53 INFO  Default test: Report flushed
+2022-08-23-22:37:01 INFO  ************* Report configuration ********************
+2022-08-23-22:37:01 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:37:01 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:37:04 INFO  Chromebrowser configured
+2022-08-23-22:37:06 INFO  Launched the app
+2022-08-23-22:37:06 INFO  initiating logging into app
+2022-08-23-22:37:06 INFO  username entered on login page
+2022-08-23-22:37:06 INFO  password entered on login page
+2022-08-23-22:37:07 INFO  login button clicked
+2022-08-23-22:37:21 INFO  Browser is closed.
+2022-08-23-22:37:21 INFO  Default test: Report flushed
+2022-08-23-22:52:01 INFO  ************* Report configuration ********************
+2022-08-23-22:52:01 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-22:52:01 INFO  Default test: Attached html report for the reporting
+2022-08-23-22:52:08 INFO  Chromebrowser configured
+2022-08-23-22:52:12 INFO  Launched the app
+2022-08-23-22:52:13 INFO  username entered on login page
+2022-08-23-22:52:16 INFO  password entered on login page
+2022-08-23-22:52:16 INFO  remember me checkbox is selected
+2022-08-23-22:52:17 INFO  login button clicked
+2022-08-23-22:52:25 INFO  Browser is closed.
+2022-08-23-22:52:27 INFO  Chromebrowser configured
+2022-08-23-22:52:28 INFO  Launched the app
+2022-08-23-22:52:29 INFO  clicked on forgot your password
+2022-08-23-22:52:29 INFO  forgot username entered on login page
+2022-08-23-22:52:30 INFO  Browser is closed.
+2022-08-23-22:52:31 INFO  Chromebrowser configured
+2022-08-23-22:52:33 INFO  Launched the app
+2022-08-23-22:52:33 INFO  username entered on login page
+2022-08-23-22:52:33 INFO  password entered on login page
+2022-08-23-22:52:34 INFO  login button clicked
+2022-08-23-22:52:37 INFO  error message returned
+2022-08-23-22:52:37 INFO  Browser is closed.
+2022-08-23-22:52:38 INFO  Chromebrowser configured
+2022-08-23-22:52:38 INFO  chrome setup
+2022-08-23-22:52:40 INFO  Launched the app
+2022-08-23-22:52:40 INFO  username entered on login page
+2022-08-23-22:52:40 INFO  password cleared
+2022-08-23-22:52:41 INFO  login button clicked
+2022-08-23-22:52:44 INFO  Error message is displayed
+2022-08-23-22:52:44 INFO  Login error message is seen
+2022-08-23-22:52:44 INFO  error message returned
+2022-08-23-22:52:44 INFO  Browser is closed.
+2022-08-23-22:52:45 INFO  Chromebrowser configured
+2022-08-23-22:52:47 INFO  Launched the app
+2022-08-23-22:52:48 INFO  username entered on login page
+2022-08-23-22:52:48 INFO  password entered on login page
+2022-08-23-22:52:51 INFO  Browser is closed.
+2022-08-23-22:52:51 INFO  Default test: Report flushed
+2022-08-23-23:04:54 INFO  ************* Report configuration ********************
+2022-08-23-23:04:54 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-23:04:54 INFO  Default test: Attached html report for the reporting
+2022-08-23-23:05:19 INFO  Chromebrowser configured
+2022-08-23-23:05:22 INFO  Launched the app
+2022-08-23-23:05:22 INFO  username entered on login page
+2022-08-23-23:05:25 INFO  password entered on login page
+2022-08-23-23:05:26 INFO  remember me checkbox is selected
+2022-08-23-23:05:31 INFO  login button clicked
+2022-08-23-23:05:37 INFO  Browser is closed.
+2022-08-23-23:05:42 INFO  Chromebrowser configured
+2022-08-23-23:05:43 INFO  Launched the app
+2022-08-23-23:05:44 INFO  clicked on forgot your password
+2022-08-23-23:05:44 INFO  forgot username entered on login page
+2022-08-23-23:05:44 INFO  Browser is closed.
+2022-08-23-23:05:46 INFO  Chromebrowser configured
+2022-08-23-23:05:48 INFO  Launched the app
+2022-08-23-23:05:49 INFO  username entered on login page
+2022-08-23-23:05:49 INFO  password entered on login page
+2022-08-23-23:05:49 INFO  login button clicked
+2022-08-23-23:05:52 INFO  error message returned
+2022-08-23-23:05:52 INFO  Browser is closed.
+2022-08-23-23:05:54 INFO  Chromebrowser configured
+2022-08-23-23:05:54 INFO  chrome setup
+2022-08-23-23:05:57 INFO  Launched the app
+2022-08-23-23:05:57 INFO  username entered on login page
+2022-08-23-23:05:57 INFO  password cleared
+2022-08-23-23:05:57 INFO  login button clicked
+2022-08-23-23:06:00 INFO  Error message is displayed
+2022-08-23-23:06:00 INFO  Login error message is seen
+2022-08-23-23:06:00 INFO  error message returned
+2022-08-23-23:06:01 INFO  Browser is closed.
+2022-08-23-23:06:03 INFO  Chromebrowser configured
+2022-08-23-23:06:05 INFO  Launched the app
+2022-08-23-23:06:05 INFO  username entered on login page
+2022-08-23-23:06:05 INFO  password entered on login page
+2022-08-23-23:06:08 INFO  Browser is closed.
+2022-08-23-23:06:09 INFO  Default test: Report flushed
+2022-08-23-23:09:31 INFO  ************* Report configuration ********************
+2022-08-23-23:09:31 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-23:09:31 INFO  Default test: Attached html report for the reporting
+2022-08-23-23:09:33 INFO  Chromebrowser configured
+2022-08-23-23:09:37 INFO  Launched the app
+2022-08-23-23:09:37 INFO  initiating logging into app
+2022-08-23-23:09:37 INFO  username entered on login page
+2022-08-23-23:09:38 INFO  password entered on login page
+2022-08-23-23:09:38 INFO  login button clicked
+2022-08-23-23:09:38 INFO  Browser is closed.
+2022-08-23-23:09:38 INFO  Default test: Report flushed
+2022-08-23-23:12:26 INFO  ************* Report configuration ********************
+2022-08-23-23:12:26 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-23:12:26 INFO  Default test: Attached html report for the reporting
+2022-08-23-23:12:29 INFO  Chromebrowser configured
+2022-08-23-23:12:30 INFO  Launched the app
+2022-08-23-23:12:30 INFO  initiating logging into app
+2022-08-23-23:12:31 INFO  username entered on login page
+2022-08-23-23:12:31 INFO  password entered on login page
+2022-08-23-23:12:32 INFO  login button clicked
+2022-08-23-23:12:47 INFO  Browser is closed.
+2022-08-23-23:12:47 INFO  Default test: Report flushed
+2022-08-23-23:15:45 INFO  ************* Report configuration ********************
+2022-08-23-23:15:45 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-23:15:45 INFO  Default test: Attached html report for the reporting
+2022-08-23-23:15:48 INFO  Chromebrowser configured
+2022-08-23-23:15:49 INFO  Launched the app
+2022-08-23-23:15:49 INFO  initiating logging into app
+2022-08-23-23:15:50 INFO  username entered on login page
+2022-08-23-23:15:50 INFO  password entered on login page
+2022-08-23-23:15:51 INFO  login button clicked
+2022-08-23-23:16:02 INFO  Browser is closed.
+2022-08-23-23:16:03 INFO  Default test: Report flushed
+2022-08-23-23:22:39 INFO  ************* Report configuration ********************
+2022-08-23-23:22:39 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-23:22:39 INFO  Default test: Attached html report for the reporting
+2022-08-23-23:22:45 INFO  Chromebrowser configured
+2022-08-23-23:22:47 INFO  Launched the app
+2022-08-23-23:22:48 INFO  username entered on login page
+2022-08-23-23:22:51 INFO  password entered on login page
+2022-08-23-23:22:51 INFO  remember me checkbox is selected
+2022-08-23-23:22:52 INFO  login button clicked
+2022-08-23-23:23:01 INFO  Browser is closed.
+2022-08-23-23:23:02 INFO  Chromebrowser configured
+2022-08-23-23:23:04 INFO  Launched the app
+2022-08-23-23:23:04 INFO  clicked on forgot your password
+2022-08-23-23:23:05 INFO  forgot username entered on login page
+2022-08-23-23:23:05 INFO  Browser is closed.
+2022-08-23-23:23:07 INFO  Chromebrowser configured
+2022-08-23-23:23:09 INFO  Launched the app
+2022-08-23-23:23:09 INFO  username entered on login page
+2022-08-23-23:23:09 INFO  password entered on login page
+2022-08-23-23:23:09 INFO  login button clicked
+2022-08-23-23:23:12 INFO  error message returned
+2022-08-23-23:23:12 INFO  Browser is closed.
+2022-08-23-23:23:14 INFO  Chromebrowser configured
+2022-08-23-23:23:14 INFO  chrome setup
+2022-08-23-23:23:15 INFO  Launched the app
+2022-08-23-23:23:16 INFO  username entered on login page
+2022-08-23-23:23:16 INFO  password cleared
+2022-08-23-23:23:16 INFO  login button clicked
+2022-08-23-23:23:19 INFO  Error message is displayed
+2022-08-23-23:23:19 INFO  Login error message is seen
+2022-08-23-23:23:19 INFO  error message returned
+2022-08-23-23:23:19 INFO  Browser is closed.
+2022-08-23-23:23:21 INFO  Chromebrowser configured
+2022-08-23-23:23:23 INFO  Launched the app
+2022-08-23-23:23:23 INFO  username entered on login page
+2022-08-23-23:23:23 INFO  password entered on login page
+2022-08-23-23:23:26 INFO  Browser is closed.
+2022-08-23-23:23:26 INFO  Default test: Report flushed
+2022-08-23-23:42:04 INFO  ************* Report configuration ********************
+2022-08-23-23:42:04 INFO  Default test: Initialized extent object for the extent reports
+2022-08-23-23:42:04 INFO  Default test: Attached html report for the reporting
+2022-08-23-23:42:10 INFO  Chromebrowser configured
+2022-08-23-23:42:13 INFO  Launched the app
+2022-08-23-23:42:13 INFO  username entered on login page
+2022-08-23-23:42:16 INFO  password entered on login page
+2022-08-23-23:42:16 INFO  remember me checkbox is selected
+2022-08-23-23:42:18 INFO  login button clicked
+2022-08-23-23:42:25 INFO  Browser is closed.
+2022-08-23-23:42:30 INFO  Chromebrowser configured
+2022-08-23-23:42:32 INFO  Launched the app
+2022-08-23-23:42:32 INFO  clicked on forgot your password
+2022-08-23-23:42:33 INFO  forgot username entered on login page
+2022-08-23-23:42:34 INFO  Browser is closed.
+2022-08-23-23:42:38 INFO  Chromebrowser configured
+2022-08-23-23:42:39 INFO  Launched the app
+2022-08-23-23:42:39 INFO  username entered on login page
+2022-08-23-23:42:39 INFO  password entered on login page
+2022-08-23-23:42:40 INFO  login button clicked
+2022-08-23-23:42:43 INFO  error message returned
+2022-08-23-23:42:43 INFO  Browser is closed.
+2022-08-23-23:42:44 INFO  Chromebrowser configured
+2022-08-23-23:42:44 INFO  chrome setup
+2022-08-23-23:42:46 INFO  Launched the app
+2022-08-23-23:42:47 INFO  username entered on login page
+2022-08-23-23:42:47 INFO  password cleared
+2022-08-23-23:42:47 INFO  login button clicked
+2022-08-23-23:42:50 INFO  Error message is displayed
+2022-08-23-23:42:50 INFO  Login error message is seen
+2022-08-23-23:42:50 INFO  error message returned
+2022-08-23-23:42:51 INFO  Browser is closed.
+2022-08-23-23:42:52 INFO  Chromebrowser configured
+2022-08-23-23:42:54 INFO  Launched the app
+2022-08-23-23:42:54 INFO  username entered on login page
+2022-08-23-23:42:55 INFO  password entered on login page
+2022-08-23-23:42:58 INFO  Browser is closed.
+2022-08-23-23:42:58 INFO  Default test: Report flushed
